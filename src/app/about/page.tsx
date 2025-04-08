@@ -123,7 +123,7 @@ export default function AboutPage() {
                   <div className="aspect-square relative bg-gradient-to-br from-gray-200 to-gray-300 dark:from-gray-800 dark:to-gray-900">
                     <Image 
                       src="/assets/ayush.jpeg" 
-                      alt="Ayush Prajapati" 
+                      alt="Ayush" 
                       fill 
                       className="object-cover"
                     />
